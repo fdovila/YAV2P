@@ -6,7 +6,6 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![GitHub issues](https://img.shields.io/github/issues/fdovila/YAV2P.svg)](https://github.com/fdovila/YAV2P/issues)
 [![GitHub stars](https://img.shields.io/github/stars/fdovila/YAV2P.svg)](https://github.com/fdovila/YAV2P/stargazers)
-![Tea](https://img.shields.io/badge/tea-required-brown)
 ![Luck](https://img.shields.io/badge/luck-needed-yellow)
 ![Quality](https://img.shields.io/badge/quality-ish-blueviolet)
 ![Humour](https://img.shields.io/badge/humour-dry-red)
