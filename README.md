@@ -1,5 +1,12 @@
 # YAV2P: Yet Another Video To Panorama Stitcher
 
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![OpenCV](https://img.shields.io/badge/opencv-4.5+-green.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+[![GitHub issues](https://img.shields.io/github/issues/fdovila/YAV2P.svg)](https://github.com/fdovila/YAV2P/issues)
+[![GitHub stars](https://img.shields.io/github/stars/fdovila/YAV2P.svg)](https://github.com/fdovila/YAV2P/stargazers)
+
 A *slightly ambitious* attempt at yet another video panorama stitching tool that extracts frames from video and (with varying degrees of success) tries to create high-quality panoramic images. Designed to handle challenging conditions including dark videos, motion blur, and varying exposure levels - though "handle" might be a rather optimistic term. Specially designed for the British weather.
 
 Because the world definitely needed another panorama stitcher, this one includes expectations management while still doing its best to deliver something that might, under favorable circumstances and with a bit of luck, resemble a proper panorama.
