@@ -36,6 +36,26 @@ Requirements:
     - multiprocessing
     - psutil
     - tqdm
+
+Keywords:
+    #computer-vision #image-processing #panorama #video-processing
+    #opencv #python #image-stitching #feature-detection #sift
+    #parallel-processing #image-enhancement #video-to-panorama
+    #panorama-stitcher #video-frames #dark-video #motion-blur
+    #clahe #image-blending #quality-metrics #memory-efficient
+    #error-recovery #workspace-management #multi-threading
+    #adaptive-processing #unwarp-correction #sequential-merging
+
+Topics:
+    Computer Vision, Image Processing, Video Processing, OpenCV,
+    Feature Detection, Parallel Processing, Image Enhancement,
+    Memory Management, Error Recovery, Quality Control
+
+Related Projects:
+    - OpenCV
+    - Video Processing Tools
+    - Image Stitching Applications
+    - Panorama Creation Software
 """
 
 import cv2
