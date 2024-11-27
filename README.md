@@ -9,7 +9,7 @@
 
 </div>
 
-A robust video panorama stitching tool that handles challenging conditions like dark videos, motion blur, and varying exposure levels. YAV2P extracts frames from video and creates high-quality panoramic images using advanced computer vision techniques.
+A robust video panorama stitching tool that handles challenging conditions like dark videos, motion blur, and varying exposure levels. YAV2P extracts frames from video and (try to) creates high-quality panoramic images using advanced computer vision techniques.
 
 ## 🌟 Features
 
